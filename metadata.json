@@ -1,0 +1,6 @@
+{
+  "name": "RS Industries",
+  "description": "Ultra-premium industrial manufacturing website for RS Industries, Delhi - supplying high-quality Core Cutters, Top Slitting Cutters, Teeth Cutters, Tiger Polyester Cord Belts, Glue Pumps, and Corrugated Thin Blades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
